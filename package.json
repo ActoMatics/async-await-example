@@ -8,5 +8,8 @@
   },
   "author": "Sarit Vakrat",
   "license": "ISC",
-  "git repository": "https://github.com/ActoMatics/async-await-example.git"
+  "git repository": "https://github.com/ActoMatics/async-await-example.git",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
